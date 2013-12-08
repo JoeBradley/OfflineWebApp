@@ -1,0 +1,28 @@
+﻿CACHE MANIFEST
+# NOTE: increment build number (or just change this file), so latest resources loaded, else local stored files used even when online.
+# build 12
+
+NETWORK:
+*
+
+CACHE:
+# NOTE: This is case sensitive, and must matchfile names used in the html/css files
+/favicon.ico
+/default.aspx
+
+/web/css/bootstrap-theme.css
+/web/css/bootstrap.css
+
+/web/js/lib/jquery/jquery-1.10.2.min.js
+/web/js/lib/jquery/jquery-ui-1.10.3.custom.js
+/web/js/lib/bootstrap.js
+/web/js/app.js
+
+/web/images/loading.gif
+/web/images/chris-profile.jpg
+/web/images/tech/bootstrap-logo.png
+/web/images/tech/ef-logo.jpg
+/web/images/tech/html5.jpg
+/web/images/tech/wcf-logo.jpg
+
+/web/fonts/glyphicons-halflings-regular.woff
